@@ -1,0 +1,3 @@
+## A hook for payment developed using React.js.
+
+README in DEVELOPMENT...
